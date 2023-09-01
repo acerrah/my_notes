@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "ff56f4ab733bf758",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceec10ab34fd4cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2128b69e4da6eb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Libft.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "21a46e62044c80b4"
+          }
+        ]
+      },
+      {
+        "id": "ed5ed48423c95afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc3208b0bbd0e55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Libft.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "21a46e62044c80b4"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0523c76bc2b8d11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0656654893d61b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b05f937189ba2cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ad0e8ddd3514368",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "142bee8a39d6ecb2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2219cc57955d5d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "abecb269a16f194c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2893a29adfa752",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Libft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a00022d04e4bffe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Libft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ee018d17279921d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "975255f06c84408b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Libft.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2128b69e4da6eb7c",
+  "lastOpenFiles": [
+    "42 Notes.md",
+    "Projects/get_next_line.md",
+    "build automation.md",
+    "Projects/Libft.md",
+    "Projects/Libft/Introduction.md",
+    "Projects/Libft/Libft.md",
+    "Projects/Libft/Bonus Part.md",
+    "Projects/Libft/Mandatory Part.md",
+    "Projects/Libft/Sources.md",
+    "Projects/Libft/Source.md"
+  ]
+}

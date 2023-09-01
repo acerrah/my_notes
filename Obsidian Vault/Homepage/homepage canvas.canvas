@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"file","file":"Obsidian Vault/Homepage/Homepage.md","id":"e7937a2d960cd0ce","x":-732,"y":-318,"width":400,"height":400},
+		{"type":"file","file":"Obsidian Vault/EndeavourOS/EndeavourOS.md","id":"f4689cca9c146238","x":-732,"y":-844,"width":400,"height":400},
+		{"type":"file","file":"Obsidian Vault/42/42 Notes.md","id":"948cc41fdd16effa","x":-1263,"y":-644,"width":400,"height":400},
+		{"type":"file","file":"Obsidian Vault/Embedded Engineering/Embedded Engineering.md","id":"b882a41bbf9bbf11","x":-229,"y":-644,"width":400,"height":450},
+		{"type":"file","file":"Obsidian Vault/To do list/Program.md","id":"51a2822796f240d7","x":-1263,"y":-118,"width":400,"height":410},
+		{"type":"file","file":"Obsidian Vault/Useful Links and Softwares.md","id":"52eea85687bd1ec6","x":-732,"y":258,"width":400,"height":400},
+		{"type":"file","file":"Obsidian Vault/Data Structures/Data Structures.md","id":"2fbf799314823a9e","x":-229,"y":19,"width":400,"height":400},
+		{"type":"file","file":"Obsidian Vault/Embedded Engineering/Introduction to Embedded Systems.md","id":"af93504c2ca0e213","x":320,"y":-1582,"width":854,"height":938},
+		{"type":"file","file":"Obsidian Vault/Embedded Engineering/Basics of Electronics.md","id":"78395ea5053abf60","x":320,"y":-518,"width":854,"height":1176},
+		{"type":"file","file":"Obsidian Vault/EndeavourOS/How to configure super button to open up whisker menu?.md","id":"1f5b9c9438482d5c","x":-732,"y":-1388,"width":400,"height":400},
+		{"type":"file","file":"Obsidian Vault/42/Projects/Libft.md","id":"2421f63073d83072","x":-2099,"y":-1294,"width":618,"height":1050}
+	],
+	"edges":[
+		{"id":"a8e68bcc96d9d652","fromNode":"e7937a2d960cd0ce","fromSide":"right","toNode":"b882a41bbf9bbf11","toSide":"left"},
+		{"id":"6865ca946fd1471c","fromNode":"e7937a2d960cd0ce","fromSide":"top","toNode":"f4689cca9c146238","toSide":"bottom"},
+		{"id":"86bd5b2d7ddadac6","fromNode":"e7937a2d960cd0ce","fromSide":"bottom","toNode":"52eea85687bd1ec6","toSide":"top"},
+		{"id":"f1d87439ab0cdca7","fromNode":"e7937a2d960cd0ce","fromSide":"right","toNode":"2fbf799314823a9e","toSide":"left"},
+		{"id":"abb106bd1bf8a080","fromNode":"e7937a2d960cd0ce","fromSide":"left","toNode":"948cc41fdd16effa","toSide":"right"},
+		{"id":"a65b666ecdc0adc6","fromNode":"e7937a2d960cd0ce","fromSide":"left","toNode":"51a2822796f240d7","toSide":"right"},
+		{"id":"9aa5a27b395e15f9","fromNode":"b882a41bbf9bbf11","fromSide":"right","toNode":"af93504c2ca0e213","toSide":"left"},
+		{"id":"707c5d27a62e1a28","fromNode":"b882a41bbf9bbf11","fromSide":"right","toNode":"78395ea5053abf60","toSide":"left"},
+		{"id":"ede83b4e3874e752","fromNode":"f4689cca9c146238","fromSide":"top","toNode":"1f5b9c9438482d5c","toSide":"bottom"},
+		{"id":"2b7c0b2811361252","fromNode":"948cc41fdd16effa","fromSide":"left","toNode":"2421f63073d83072","toSide":"right"}
+	]
+}
