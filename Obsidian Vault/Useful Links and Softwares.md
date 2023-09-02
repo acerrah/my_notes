@@ -157,3 +157,18 @@ https://annas-archive.org/
 Anna's Archive is a free, non-profit online metasearch engine that provides access to a variety of book resources.
 
 ---
+https://datavizproject.com/#featured
+https://r-charts.com/#category
+https://datavizcatalogue.com/blog/chart-selection-guide/
+https://www.data-to-viz.com
+http://circos.ca/images/
+https://browser.timeviz.net/
+https://www.visualcapitalist.com
+https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/
+https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/
+https://github.com/qinwf/awesome-R
+https://rweekly.org
+https://rviews.rstudio.com
+https://blogs.rstudio.com/ai/
+https://posit.co/resources/cheatsheets/
+https://r-graphics.org
