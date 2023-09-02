@@ -157,6 +157,7 @@ https://annas-archive.org/
 Anna's Archive is a free, non-profit online metasearch engine that provides access to a variety of book resources.
 
 ---
+# Uncategorized (yet)
 https://datavizproject.com/#featured
 https://r-charts.com/#category
 https://datavizcatalogue.com/blog/chart-selection-guide/
